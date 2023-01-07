@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, withRouter } from 'react-router-dom';
-import Logo from '../assets/logo_new.png';
+import Logo from '../assets/logoVNT.png';
 
 class LogoComp extends React.Component {
       render() {
